@@ -65,7 +65,7 @@ _A CRUD platform to manage book collections efficiently._
 ## 🌍 Let's Connect!
 - 💼 **LinkedIn**: [Akhtar Tarakwadiya](https://linkedin.com/in/akhtar-tarakwadiya)  
 - 🌐 **Portfolio**: Coming Soon!  
-- 📧 **Email**: [your-email@example.com](mailto:akhtar47tarakwadiya@gmail.com)  
+- 📧 **Email**: akhtar47tarakwadiya@gmail.com  
 
 ---
 
