@@ -62,7 +62,7 @@ Welcome to my GitHub corner! 🚀 I'm an aspiring **Full-Stack Developer** with 
 ## 📈 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" alt="Akhtar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhtarTarakwadiya&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhtarTarakwadiya&theme=radical" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
