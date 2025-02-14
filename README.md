@@ -1,8 +1,6 @@
-<!-- Header with Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7BE38&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Akhtar+Tarakwadiya!+👋;Full-Stack+Developer+%7C+Laravel+%7C+MERN+Stack;Always+Learning+%7C+Building+Awesome+Projects!)](https://git.io/typing-svg)
+# 🌟 **Hey, I'm Akhtar Tarakwadiya!** 👋
 
-<!-- Animated Header -->
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+Welcome to my GitHub profile! 🚀 I'm a **Full-Stack Developer** dedicated to creating dynamic, efficient, and scalable digital experiences. Here, you'll find a variety of projects that reflect my commitment to continuous learning and problem-solving in the world of web development.
 
 ---
 
@@ -10,25 +8,11 @@
 - 🌱 **Currently Learning**: Deepening my knowledge of **Advanced Laravel** and mastering the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.  
 - 🛠️ **Focused On**: Crafting user-friendly, robust web applications using modern frameworks and cutting-edge tools.  
 - 🎯 **Career Goal**: To evolve into a skilled **Full-Stack Developer** and contribute to innovative tech solutions that make a real-world impact.  
-- 💡 **Fun Fact**: When I'm not coding, I'm brainstorming new tech ideas or diving into emerging trends in the tech industry.  
+- 💡 **Fun Fact**: When I'm not coding, I'm brainstorming new tech ideas or diving into emerging trends in the tech industry.
 
 ---
 
-## 📈 **GitHub Stats & Activity**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhtarTarakwadiya&theme=tokyonight" alt="GitHub Streak Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Dynamic Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=AkhtarTarakwadiya&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🛠️ **My Tech Stack**  
+## 🛠️ **My Skill Set**  
 
 ### **Languages**  
 <p>
@@ -60,12 +44,25 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVM-1E8CBE?style=for-the-badge&logo=nvm&logoColor=white" />
 </p>
 
 ### **Operating Systems**  
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+## 📈 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" alt="Akhtar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -101,4 +98,4 @@ _A CRUD-based system to effortlessly organize and manage your book collection._
 ---
 
 ## 🚀 **Let’s Collaborate!**  
-Looking for a passionate developer for your next project or want to discuss tech? Feel free to connect—let's build something extraordinary together! 💻🎉  
+Looking for a passionate developer for your next project or want to discuss tech? Feel free to connect—let's build something extraordinary together! 💻🎉 
