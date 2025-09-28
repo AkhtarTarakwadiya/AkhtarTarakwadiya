@@ -91,6 +91,12 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
 
 ---
+🧩 Reusable PHP Components
+A collection of modular, customizable PHP components designed to speed up development for form handling and other repetitive tasks.
+🛠️ Tech Stack: PHP
+🌐 Repository: ReusablePHPComponents
+🚧 Status: Active Development
+
 
 ## 🤝 Let’s Connect
 
