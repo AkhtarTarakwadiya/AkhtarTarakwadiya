@@ -82,7 +82,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
   <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
-## 📌 Technologies I Work With (Graph Overview)
+## 📌 Technologies I Work With
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkhtarTarakwadiya&theme=radical" />
