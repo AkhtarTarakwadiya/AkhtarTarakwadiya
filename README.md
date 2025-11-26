@@ -79,7 +79,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ## 📌 Technologies Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" />
+  <img src="https://metrics.lecoq.io/AkhtarTarakwadiya?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25" />
 </p>
 
 ---
