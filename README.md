@@ -69,7 +69,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkhtarTarakwadiya&theme=radical" />
+  <img src="https://streak-stats.vercel.app?user=AkhtarTarakwadiya&theme=radical" />
 </p>
 
 ## 📊 GitHub Activity Graph
