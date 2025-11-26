@@ -1,5 +1,5 @@
 # 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋  
-Welcome to my GitHub! I'm a **Full-Stack Web Developer** passionate about building modern, user-centric, and scalable web applications. 🚀  
+Welcome to my GitHub! I’m a **Full-Stack Web Developer** passionate about building modern, user-centric, and scalable web applications. 🚀  
 
 Explore my profile to see how I blend creativity with code to solve real-world problems.  
 
@@ -46,7 +46,6 @@ Explore my profile to see how I blend creativity with code to solve real-world p
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
@@ -58,16 +57,58 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 </p>
 
 ---
 
-## 📊 My GitHub Activity
+## 📈 GitHub Stats
 
-### 🎯 Contribution Overview
-- 📚 **Public Repositories**: Building and sharing projects regularly
-- 🔥 **Active Development**: Working on multiple web applications
-- 🎨 **Code Quality**: Focus on clean, maintainable code
-- 🤝 **Open Source**: Exploring contributions to open source projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" alt="Akhtar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-### 💡 What I'm Building
+
+---
+
+## 🔥 Highlighted Projects
+
+### 🎮 Game Download Platform  
+> A sleek Laravel-based platform to explore and download popular games.  
+🛠️ **Tech Stack**: Laravel, MySQL, Bootstrap  
+🚧 **Status**: _In Development_
+
+---
+
+### 🛒 Online Shopping Store  
+> A responsive e-commerce web app with smooth UX, cart features, and secure checkout.  
+🛠️ **Tech Stack**: PHP, MySQL, Bootstrap  
+🌐 **Live Demo**: _Coming Soon_
+
+---
+
+### 📚 Book Management System  
+> A simple yet efficient CRUD-based system to manage your book collection.  
+🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
+
+---
+
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://linkedin.com/in/akhtar-tarakwadiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akhtar47tarakwadiya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Let’s Collaborate!
+
+Whether you're launching a product, need help with a project, or just want to geek out about tech — I'm always open to exciting conversations and collaborations.  
+💬 **Drop a message – Let’s build something amazing together!**
