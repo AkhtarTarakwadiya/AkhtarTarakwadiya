@@ -82,13 +82,6 @@ Explore my profile to see how I blend creativity with code to solve real-world p
   <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
-## 📌 Technologies I Work With
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkhtarTarakwadiya&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkhtarTarakwadiya&theme=radical" />
-</p>
-
 ## 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=AkhtarTarakwadiya&theme=radical" />
