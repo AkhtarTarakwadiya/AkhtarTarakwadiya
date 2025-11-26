@@ -1,5 +1,5 @@
 # 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋  
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** passionate about building modern, user-centric, and scalable web applications. 🚀  
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** passionate about building modern, user-centric, and scalable web applications. 🚀  
 
 Explore my profile to see how I blend creativity with code to solve real-world problems.  
 
@@ -57,7 +57,6 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
 </p>
 
 ---
@@ -65,10 +64,13 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" alt="Akhtar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true" alt="Akhtar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhtarTarakwadiya&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -94,8 +96,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ---
 
-
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/akhtar-tarakwadiya" target="_blank">
@@ -108,7 +109,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ---
 
-## 🚀 Let’s Collaborate!
+## 🚀 Let's Collaborate!
 
 Whether you're launching a product, need help with a project, or just want to geek out about tech — I'm always open to exciting conversations and collaborations.  
-💬 **Drop a message – Let’s build something amazing together!**
+💬 **Drop a message – Let's build something amazing together!**
