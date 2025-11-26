@@ -81,12 +81,8 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkhtarTarakwadiya&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkhtarTarakwadiya&theme=radical" />
 </p>
-
 
 ---
 
