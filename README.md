@@ -76,6 +76,18 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 </p>
 
 ---
+## Technologies & Experience (%)
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-20%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-8%25-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-7%25-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
+
+---
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
