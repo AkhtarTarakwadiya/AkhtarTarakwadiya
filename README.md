@@ -99,23 +99,23 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ### 🎮 Game Download Platform
 
-> A sleek Laravel-based platform to explore and download popular games.
-> 🛠️ **Tech Stack**: Laravel, MySQL, Bootstrap
+> A sleek Laravel-based platform to explore and download popular games.<br>
+> 🛠️ **Tech Stack**: Laravel, MySQL, Bootstrap<br>
 > 🚧 **Status**: *In Development*
 
 ---
 
 ### 🛒 Online Shopping Store
 
-> A responsive e-commerce web app with smooth UX, cart features, and secure checkout.
-> 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
+> A responsive e-commerce web app with smooth UX, cart features, and secure checkout.<br>
+> 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap<br>
 > 🌐 **Live Demo**: *Coming Soon*
 
 ---
 
 ### 📚 Book Management System
 
-> A simple yet efficient CRUD-based system to manage your book collection.
+> A simple yet efficient CRUD-based system to manage your book collection.<br>
 > 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
 
 ---
