@@ -53,13 +53,12 @@ Explore my profile to see how I blend creativity with code to solve real-world p
   <img src="https://img.shields.io/badge/NVM-1E8CBE?style=for-the-badge&logo=nvm&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
+### 💻 Operating Systems 
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-akshaydsouza.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-git-master-akshaydsouza.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical" />
 </p>
-
 
 ---
 
