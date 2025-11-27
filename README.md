@@ -78,9 +78,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 ---
 
 ## 🏆 GitHub Profile Trophy
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15" />
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="akhtartarakwadiya's trophies" /> </a> </p>
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
