@@ -81,14 +81,10 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15" />
 </p>
-## 🏆 GitHub Achievements & Stats
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <!-- If you want, take a screenshot of your desired trophy layout from https://github-profile-trophy.vercel.app and upload it to your repo as 'trophies.png', then use: -->
-  <!-- <img src="trophies.png" /> -->
-  
-  <!-- Or use a more reliable badge such as GitHub stats: -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akhtartarakwadiya&show_icons=true&theme=radical" />
+  <img src="assets/trophies.png" alt="GitHub Profile Trophies" />
 </p>
 
 ## 🔥 GitHub Streak Stats
