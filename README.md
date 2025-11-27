@@ -79,17 +79,17 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=AkhtarTarakwadiya&theme=radical" />
+  <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
 </p>
 
 ## 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhtarTarakwadiya&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtartarakwadiya&theme=react-dark" />
 </p>
 
 ---
