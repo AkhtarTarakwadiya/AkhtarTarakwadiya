@@ -80,7 +80,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 ## 🏆 GitHub Profile Trophy
 <p align="center">
  <!-- <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15" /> -->
-  <img src="https://github-profile-trophy.kokolor.es/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.repl.co/?username=akhtartarakwadiya&theme=radical" />
 </p>
 ## 🏆 GitHub Profile Trophy
 <p align="center">
