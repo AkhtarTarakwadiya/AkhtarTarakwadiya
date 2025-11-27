@@ -84,8 +84,9 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 </p>
 ## 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.kokolor.es/?username=akhtartarakwadiya&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/images/base.png" width="100%" />
 </p>
+
 
 
 ## 🔥 GitHub Streak Stats
