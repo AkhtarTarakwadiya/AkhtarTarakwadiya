@@ -1,46 +1,40 @@
-<!-- ============================= -->
+# 🌟 Akhtar Tarakwadiya 👋
 
-<!-- 🔥 ANIMATED TYPING HEADER -->
+🚀 **Full-Stack Web Developer | Problem Solver | Tech Explorer**
 
-<!-- ============================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Akhtar+Tarakwadiya+👋;Full-Stack+Web+Developer+🚀;Laravel+%7C+MERN+Stack+%7C+AI+Apps;Always+Building.+Always+Learning." />
-</p>
-
----
-
-# 🌟 **Akhtar Tarakwadiya**
-
-### 🚀 Full-Stack Web Developer | Scalable Systems | AI-Powered Apps
-
-> *I build modern, secure, and high‑performance web applications that solve real‑world problems.*
+Building modern, scalable & user-centric web applications — **one clean commit at a time.**
 
 ---
 
 ## 🧭 Welcome to My GitHub
 
-I’m a **Full‑Stack Web Developer** passionate about clean architecture, scalable systems, and user‑centric design.
-This GitHub is a collection of **production‑ready projects**, **side experiments**, and **innovative ideas** turned into working products.
+I’m a **Full-Stack Web Developer** who enjoys crafting clean code, scalable systems, and real-world solutions.
+Here you’ll find **production-ready projects**, experiments with **emerging tech**, and **ideas turned into working products**. ⚙️✨
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 **Currently Exploring**
-Advanced **Laravel** concepts and the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*
+### 🚀 Currently Exploring
 
-💼 **Focused On**
-High‑performance, secure, and responsive web applications using modern best practices
+→ Advanced **Laravel** concepts & diving deep into the **MERN Stack**
+(MongoDB · Express.js · React · Node.js)
 
-🎯 **Goal**
-Grow into a highly versatile **Full‑Stack Engineer** contributing to impactful digital products
+### 💼 Focused On
 
-🤖 **Fun Fact**
-I love brainstorming side projects and experimenting with emerging technologies
+→ High-performance, secure & responsive web applications using modern best practices
 
-🌱 **Recently Added**
-Actively exploring **AI‑powered applications** and smart **document‑processing systems**
+### 🎯 Goal
+
+→ Grow into a highly versatile **Full-Stack Engineer** contributing to impactful digital products
+
+### 🤖 Fun Fact
+
+→ I enjoy exploring new technologies, brainstorming side projects & tracking web trends
+
+### 🌱 Recently Added
+
+→ Exploring **AI-powered applications** & smart **document-processing systems**
 
 ---
 
@@ -91,8 +85,12 @@ Actively exploring **AI‑powered applications** and smart **document‑processi
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVM-1E8CBE?style=for-the-badge&logo=nvm&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 ### 💻 Operating Systems
@@ -111,13 +109,13 @@ Actively exploring **AI‑powered applications** and smart **document‑processi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
 </p>
 
-## 📊 GitHub Activity Graph
+## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtartarakwadiya&theme=react-dark" />
@@ -127,116 +125,69 @@ Actively exploring **AI‑powered applications** and smart **document‑processi
 
 ## 🔥 Highlighted Projects
 
-### 🤖 AI‑Copilot — Intelligent Development Assistant
+### 🤖 AI-Copilot — Intelligent Development Assistant
 
-* **Tech**: React, Node.js, OpenAI API, LangChain, MongoDB, Tailwind CSS
-* **Features**: Code completion, error detection, refactoring, NL‑to‑Code
-* **Status**: 🚧 In Development
-* **Goal**: Reduce development time by **40%**
+**Tech:** React · Node.js · OpenAI API · LangChain · MongoDB · Tailwind CSS
+**Features:** Code completion, error detection, refactoring, NL-to-Code
+**Status:** 🚧 In Development
+**Goal:** Reduce dev time by **40%**
+
+---
 
 ### 📄 HDoc — Smart Document Management System
 
-* **Tech**: Laravel, MySQL, Python, TensorFlow, Redis, AWS S3
-* **Achievement**: 10,000+ docs processed with **99.2% accuracy**
-* **Status**: ✅ Completed & Deployed
+**Tech:** Laravel · MySQL · Python · TensorFlow · Redis · AWS S3
+**Features:** AI categorization, OCR, semantic search, versioning
+**Achievement:** 10,000+ docs with **99.2% accuracy**
+**Status:** ✅ Completed & Deployed
+
+---
 
 ### 🎮 Game Download Platform
 
-* **Tech**: Laravel, MySQL, Bootstrap
-* **Status**: 🚧 In Development
+**Tech:** Laravel · MySQL · Bootstrap
+**Status:** 🚧 In Development
+
+---
 
 ### 🛒 Online Shopping Store
 
-* **Tech**: PHP, MySQL, Bootstrap
-* **Live Demo**: Coming Soon
+**Tech:** PHP · MySQL · Bootstrap
+**Live Demo:** Coming Soon
+
+---
 
 ### 📚 Book Management System
 
-* **Tech**: PHP, MySQL, Bootstrap
+**Tech:** PHP · MySQL · Bootstrap
 
 ---
 
 ## 🏆 Project Metrics
 
-| Project    | Status        | Lines of Code | Impact          |
-| ---------- | ------------- | ------------- | --------------- |
-| AI‑Copilot | 🚧 In Dev     | 15,000+       | 40% faster dev  |
-| HDoc       | ✅ Completed   | 25,000+       | 99.2% accuracy  |
-| GameHub    | 🚧 In Dev     | 8,000+        | Gaming platform |
-| ShopEasy   | 🟡 Demo Ready | 12,000+       | E‑commerce      |
-| BookWise   | ✅ Completed   | 5,000+        | Library mgmt    |
-
----
-
-## ⭐ Open‑Source & Community Badges
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-Advocate-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
-</p>
-
----
-
-## 🧲 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AkhtarTarakwadiya/AkhtarTarakwadiya/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 👀 Profile Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhtarTarakwadiya&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-## 🏅 Achievements & Highlights
-
-* 🏆 Built and deployed **production-grade Laravel applications**
-* 🤖 Developed **AI-powered systems** with OpenAI & LangChain
-* 📊 Processed **10,000+ documents** with **99.2% accuracy**
-* 🚀 Actively building **full-stack & MERN-based platforms**
-* 🌱 Continuous learner exploring **AI, scalability & system design**
+| Project    | Status            | Lines of Code | Impact          |
+| ---------- | ----------------- | ------------- | --------------- |
+| AI-Copilot | 🚧 In Development | 15,000+       | 40% faster dev  |
+| HDoc       | ✅ Completed       | 25,000+       | 99.2% accuracy  |
+| GameHub    | 🚧 In Development | 8,000+        | Gaming platform |
+| ShopEasy   | 🟡 Demo Ready     | 12,000+       | E-commerce      |
+| BookWise   | ✅ Completed       | 5,000+        | Library mgmt    |
 
 ---
 
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://linkedin.com/in/akhtar-tarakwadiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:akhtar47tarakwadiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/AkhtarTarakwadiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/akhtar-tarakwadiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:akhtar47tarakwadiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/AkhtarTarakwadiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 <div align="center">
+🚀 **Always Building · Always Learning**  
 
-### 📈 Currently Working On
-
-* Enhancing **AI‑Copilot** intelligent features
-* Expanding **HDoc** document‑processing capabilities
-* Finalizing **Game Download Platform**
-
-### 🎯 2026 Goals
-
-* Launch **AI‑Copilot** public beta
-* Reach **1000+ GitHub stars**
-* Contribute to **5+ open‑source projects**
-* Mentor aspiring developers
-
-*Last Updated: January 2026 · 🚀 Always Building, Always Learning*
+*Last Updated: January 2026*
 
 </div>
