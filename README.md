@@ -90,6 +90,14 @@ Explore my profile to see how I blend creativity with code to solve real-world p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AkhtarTarakwadiya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 ## 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
