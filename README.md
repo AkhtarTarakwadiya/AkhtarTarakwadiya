@@ -1,17 +1,46 @@
-# 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋
+<!-- ============================= -->
 
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
-Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
+<!-- 🔥 ANIMATED TYPING HEADER -->
+
+<!-- ============================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Akhtar+Tarakwadiya+👋;Full-Stack+Web+Developer+🚀;Laravel+%7C+MERN+Stack+%7C+AI+Apps;Always+Building.+Always+Learning." />
+</p>
+
+---
+
+# 🌟 **Akhtar Tarakwadiya**
+
+### 🚀 Full-Stack Web Developer | Scalable Systems | AI-Powered Apps
+
+> *I build modern, secure, and high‑performance web applications that solve real‑world problems.*
+
+---
+
+## 🧭 Welcome to My GitHub
+
+I’m a **Full‑Stack Web Developer** passionate about clean architecture, scalable systems, and user‑centric design.
+This GitHub is a collection of **production‑ready projects**, **side experiments**, and **innovative ideas** turned into working products.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
-* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices.
-* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**.
-* 🤖 **Fun Fact**: I enjoy exploring new technologies, brainstorming side projects, and keeping up with emerging web trends.
-* 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems.
+🚀 **Currently Exploring**
+Advanced **Laravel** concepts and the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*
+
+💼 **Focused On**
+High‑performance, secure, and responsive web applications using modern best practices
+
+🎯 **Goal**
+Grow into a highly versatile **Full‑Stack Engineer** contributing to impactful digital products
+
+🤖 **Fun Fact**
+I love brainstorming side projects and experimenting with emerging technologies
+
+🌱 **Recently Added**
+Actively exploring **AI‑powered applications** and smart **document‑processing systems**
 
 ---
 
@@ -62,12 +91,8 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVM-1E8CBE?style=for-the-badge&logo=nvm&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 ### 💻 Operating Systems
@@ -79,20 +104,16 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak Stats
-
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
 </p>
-
-## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtartarakwadiya&theme=react-dark" />
@@ -104,92 +125,62 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ### 🤖 AI‑Copilot — Intelligent Development Assistant
 
-An AI‑powered coding assistant designed to help developers write cleaner, better code with intelligent suggestions, error detection, and automated documentation.
-
-* 🛠️ **Tech Stack**: React, Node.js, OpenAI API, LangChain, MongoDB, Tailwind CSS
-* ✨ **Features**: Real‑time code completion, error detection, refactoring suggestions, natural‑language‑to‑code conversion
-* 🚧 **Status**: In Development
-* 🎯 **Goal**: Reduce development time by **40%** while improving code quality
-
----
+* **Tech**: React, Node.js, OpenAI API, LangChain, MongoDB, Tailwind CSS
+* **Features**: Code completion, error detection, refactoring, NL‑to‑Code
+* **Status**: 🚧 In Development
+* **Goal**: Reduce development time by **40%**
 
 ### 📄 HDoc — Smart Document Management System
 
-An intelligent document‑processing platform with AI‑powered categorization, semantic search, and automated summarization.
-
-* 🛠️ **Tech Stack**: Laravel, MySQL, Python, TensorFlow, Redis, AWS S3
-* ✨ **Features**: Document categorization, semantic search, OCR integration, version control, collaborative editing
-* 📊 **Achievement**: 10,000+ documents processed with **99.2% accuracy**
-* ✅ **Status**: Completed & Deployed
-
----
+* **Tech**: Laravel, MySQL, Python, TensorFlow, Redis, AWS S3
+* **Achievement**: 10,000+ docs processed with **99.2% accuracy**
+* **Status**: ✅ Completed & Deployed
 
 ### 🎮 Game Download Platform
 
-A sleek Laravel‑based platform to explore, manage, and download popular games.
-
-* 🛠️ **Tech Stack**: Laravel, MySQL, Bootstrap
-* 🚧 **Status**: In Development
-
----
+* **Tech**: Laravel, MySQL, Bootstrap
+* **Status**: 🚧 In Development
 
 ### 🛒 Online Shopping Store
 
-A responsive e‑commerce web application featuring smooth UX, cart management, and secure checkout.
-
-* 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
-* 🌐 **Live Demo**: Coming Soon
-
----
+* **Tech**: PHP, MySQL, Bootstrap
+* **Live Demo**: Coming Soon
 
 ### 📚 Book Management System
 
-A simple yet efficient CRUD‑based system for managing book collections.
-
-* 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
+* **Tech**: PHP, MySQL, Bootstrap
 
 ---
 
 ## 🏆 Project Metrics
 
-| Project    | Status            | Lines of Code | Impact                          |
-| ---------- | ----------------- | ------------- | ------------------------------- |
-| AI‑Copilot | 🚧 In Development | 15,000+       | Expected 40% faster development |
-| HDoc       | ✅ Completed       | 25,000+       | 99.2% accuracy on 10K+ docs     |
-| GameHub    | 🚧 In Development | 8,000+        | Gaming platform for enthusiasts |
-| ShopEasy   | 🟡 Demo Ready     | 12,000+       | Complete e‑commerce solution    |
-| BookWise   | ✅ Completed       | 5,000+        | Efficient library management    |
+| Project    | Status        | Lines of Code | Impact          |
+| ---------- | ------------- | ------------- | --------------- |
+| AI‑Copilot | 🚧 In Dev     | 15,000+       | 40% faster dev  |
+| HDoc       | ✅ Completed   | 25,000+       | 99.2% accuracy  |
+| GameHub    | 🚧 In Dev     | 8,000+        | Gaming platform |
+| ShopEasy   | 🟡 Demo Ready | 12,000+       | E‑commerce      |
+| BookWise   | ✅ Completed   | 5,000+        | Library mgmt    |
+
+---
+
+## ⭐ Open‑Source & Community Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Advocate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://linkedin.com/in/akhtar-tarakwadiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:akhtar47tarakwadiya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AkhtarTarakwadiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/akhtar-tarakwadiya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:akhtar47tarakwadiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/AkhtarTarakwadiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 </p>
-
----
-
-## 🚀 Let’s Collaborate!
-
-Whether you’re launching a product, need help with a project, or just want to geek out about tech — I’m always open to meaningful conversations and collaborations.
-
-### I’m particularly interested in:
-
-* 🤖 AI / ML integration projects
-* 📊 Scalable web applications
-* 🔧 Open‑source contributions
-* 🎯 Innovative tech solutions
-
-💬 **Drop a message — let’s build something amazing together!**
 
 ---
 
@@ -197,17 +188,17 @@ Whether you’re launching a product, need help with a project, or just want to 
 
 ### 📈 Currently Working On
 
-* 🔧 Enhancing **AI‑Copilot** intelligent features
-* 📚 Expanding **HDoc** document‑processing capabilities
-* 🎮 Finalizing **Game Download Platform**
+* Enhancing **AI‑Copilot** intelligent features
+* Expanding **HDoc** document‑processing capabilities
+* Finalizing **Game Download Platform**
 
 ### 🎯 2026 Goals
 
 * Launch **AI‑Copilot** public beta
-* Reach **1000+ GitHub stars** across projects
+* Reach **1000+ GitHub stars**
 * Contribute to **5+ open‑source projects**
 * Mentor aspiring developers
 
-*Last Updated: January 2026 | 🚀 Always Building, Always Learning*
+*Last Updated: January 2026 · 🚀 Always Building, Always Learning*
 
 </div>
