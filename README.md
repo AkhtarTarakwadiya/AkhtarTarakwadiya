@@ -80,7 +80,7 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 ## 🏆 GitHub Profile Trophy
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=akhtartarakwadiya&theme=matrix" alt="akhtartarakwadiya's trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=matrix" alt="akhtartarakwadiya's trophies" />
   </a>
 </p>
 
