@@ -83,14 +83,12 @@ Explore my profile to see how I blend creativity with code to solve real-world p
     <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=matrix" alt="akhtartarakwadiya's trophies" />
   </a>
 </p> -->
-## 🏆 GitHub Profile Trophy
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=AkhtarTarakwadiya&theme=radical&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-## 🏆 Test Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/api?username=AkhtarTarakwadiya)
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
