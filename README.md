@@ -104,16 +104,20 @@ Actively exploring **AI‑powered applications** and smart **document‑processi
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+## 🔥 GitHub Streak Stats
+
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
 </p>
+
+## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtartarakwadiya&theme=react-dark" />
@@ -171,6 +175,40 @@ Actively exploring **AI‑powered applications** and smart **document‑processi
   <img src="https://img.shields.io/badge/Clean%20Code-Advocate-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge" />
 </p>
+
+---
+
+## 🧲 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AkhtarTarakwadiya/AkhtarTarakwadiya/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 👀 Profile Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkhtarTarakwadiya&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+## 🏅 Achievements & Highlights
+
+* 🏆 Built and deployed **production-grade Laravel applications**
+* 🤖 Developed **AI-powered systems** with OpenAI & LangChain
+* 📊 Processed **10,000+ documents** with **99.2% accuracy**
+* 🚀 Actively building **full-stack & MERN-based platforms**
+* 🌱 Continuous learner exploring **AI, scalability & system design**
 
 ---
 
