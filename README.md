@@ -88,6 +88,9 @@ Explore my profile to see how I blend creativity with code to solve real-world p
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/api?username=AkhtarTarakwadiya&theme=radical&no-frame=true&no-bg=true" />
 </p>
+## 🏆 Test Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/api?username=AkhtarTarakwadiya)
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
