@@ -82,11 +82,24 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=AkhtarTarakwadiya&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AkhtarTarakwadiya?label=Followers&style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/stars/AkhtarTarakwadiya?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Projects-In%20Progress-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-Advanced-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-61dafb?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ## 🔥 GitHub Streak Stats
