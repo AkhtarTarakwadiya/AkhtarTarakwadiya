@@ -82,31 +82,6 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ---
 
-## ⭐ Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AkhtarTarakwadiya&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AkhtarTarakwadiya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhtarTarakwadiya&repo=travel-copilot&theme=radical" />
-  </a>
-  <a href="https://github.com/AkhtarTarakwadiya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkhtarTarakwadiya&repo=hdDocuments&theme=radical" />
-  </a>
-</p>
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhtarTarakwadiya&theme=react-dark&hide_border=true" />
-</p>>
-
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
