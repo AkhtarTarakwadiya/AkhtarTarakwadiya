@@ -82,25 +82,17 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ---
 
-## 📊 GitHub Profile Insights
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhtarTarakwadiya&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AkhtarTarakwadiya?label=Followers&style=for-the-badge&color=orange" />
-  <img src="https://img.shields.io/github/stars/AkhtarTarakwadiya?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-red?style=for-the-badge" />
-</p>
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Projects-In%20Progress-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-Advanced-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-Stack-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhtarTarakwadiya&theme=react-dark&hide_border=true" />
+</p>>
 
 ## 🔥 GitHub Streak Stats
 
