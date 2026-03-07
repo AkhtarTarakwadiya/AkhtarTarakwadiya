@@ -82,10 +82,16 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ---
 
+## 📈 GitHub Contribution Overview
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/AkhtarTarakwadiya" alt="Akhtar Tarakwadiya Github chart" />
+</p>
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhtarTarakwadiya&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ## 📈 GitHub Contribution Graph
