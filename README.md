@@ -85,8 +85,8 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhtarTarakwadiya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarTarakwadiya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak Stats
