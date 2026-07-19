@@ -1,7 +1,11 @@
 # 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋
 
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
-Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+</p>
+
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
+Here you'll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
 
 ---
 
@@ -12,8 +16,8 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 * 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**.
 - 🤖 **Fun Fact**  
   → I enjoy exploring new technologies, brainstorming side projects & tracking web trends 🎉  
-  → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights.”* ☕💻😄  
-  → *“Powered by chai, deadlines, and questionable sleep schedules.”* ☕😴💻
+  → *"I don't need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights."* ☕💻😄  
+  → *"Powered by chai, deadlines, and questionable sleep schedules."* ☕😴💻
 * 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems.
 
 ---
@@ -146,19 +150,7 @@ A simple yet efficient CRUD‑based system for managing book collections.
 
 ---
 
-## 🏆 Project Metrics
-
-| Project    | Status            | Lines of Code | Impact                          |
-| ---------- | ----------------- | ------------- | ------------------------------- |
-| AI‑Copilot | 🚧 In Development | 15,000+       | Expected 40% faster development |
-| HDoc       | ✅ Completed       | 25,000+       | 99.2% accuracy on 10K+ docs     |
-| GameHub    | 🚧 In Development | 8,000+        | Gaming platform for enthusiasts |
-| ShopEasy   | 🟡 Demo Ready     | 12,000+       | Complete e‑commerce solution    |
-| BookWise   | ✅ Completed       | 5,000+        | Efficient library management    |
-
----
-
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/akhtar-tarakwadiya" target="_blank">
@@ -174,18 +166,18 @@ A simple yet efficient CRUD‑based system for managing book collections.
 
 ---
 
-## 🚀 Let’s Collaborate!
+## 🚀 Let's Collaborate!
 
-Whether you’re launching a product, need help with a project, or just want to geek out about tech — I’m always open to meaningful conversations and collaborations.
+Whether you're launching a product, need help with a project, or just want to geek out about tech — I'm always open to meaningful conversations and collaborations.
 
-### I’m particularly interested in:
+### I'm particularly interested in:
 
 * 🤖 AI / ML integration projects
 * 📊 Scalable web applications
 * 🔧 Open‑source contributions
 * 🎯 Innovative tech solutions
 
-💬 **Drop a message — let’s build something amazing together!**
+💬 **Drop a message — let's build something amazing together!**
 
 ---
 
