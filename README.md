@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhtartarakwadiya&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/akhtartarakwadiya?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/akhtartarakwadiya?label=Stars&style=social" alt="Stars" />
+</p>
+
 Welcome to my GitHub! I'm a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
 Here you'll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
 
@@ -11,14 +17,14 @@ Here you'll find a mix of clean code, practical projects, and experiments with n
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
-* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices.
-* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**.
-- 🤖 **Fun Fact**  
+* 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*
+* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices
+* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**
+* 🤖 **Fun Fact**:  
   → I enjoy exploring new technologies, brainstorming side projects & tracking web trends 🎉  
   → *"I don't need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights."* ☕💻😄  
   → *"Powered by chai, deadlines, and questionable sleep schedules."* ☕😴💻
-* 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems.
+* 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems
 
 ---
 
@@ -26,22 +32,26 @@ Here you'll find a mix of clean code, practical projects, and experiments with n
 
 ### 🌐 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -49,37 +59,40 @@ Here you'll find a mix of clean code, practical projects, and experiments with n
 
 ### 🤖 AI & ML Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVM-1E8CBE?style=for-the-badge&logo=nvm&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ### 💻 Operating Systems
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
@@ -152,7 +165,7 @@ A simple yet efficient CRUD‑based system for managing book collections.
 
 ## 🤝 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/akhtar-tarakwadiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -161,6 +174,12 @@ A simple yet efficient CRUD‑based system for managing book collections.
   </a>
   <a href="https://github.com/AkhtarTarakwadiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/akhtar_tarak" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akhtar_tarak" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -195,6 +214,16 @@ Whether you're launching a product, need help with a project, or just want to ge
 * Reach **1000+ GitHub stars** across projects
 * Contribute to **5+ open‑source projects**
 * Mentor aspiring developers
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhtartarakwadiya&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhtartarakwadiya&layout=compact&theme=radical" alt="Top Languages" />
+
+---
 
 *Last Updated: January 2026 | 🚀 Always Building, Always Learning*
 
