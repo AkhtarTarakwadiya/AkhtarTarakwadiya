@@ -13,7 +13,7 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 - 🤖 **Fun Fact**  
   → I enjoy exploring new technologies, brainstorming side projects & tracking web trends 🎉  
   → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights.”* ☕💻😄  
-  → *“Powered by chai, deadlines, and questionable sleep schedules.”* ☕😴💻
+  → *“Powered by chai, deadlines, and questionable sleep schedules...”* ☕😴💻
 * 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems.
 
 ---
@@ -193,14 +193,14 @@ Whether you’re launching a product, need help with a project, or just want to 
 
 ### 📈 Currently Working On
 
-* 🔧 Enhancing **AI‑Copilot** intelligent features
-* 📚 Expanding **HDoc** document‑processing capabilities
+* 🔧 Enhancing **AI‑Copilot** intelligent features.
+* 📚 Expanding **HDoc** document‑processing capabilities.
 * 🎮 Finalizing **Game Download Platform**
 
 ### 🎯 2026 Goals
 
-* Launch **AI‑Copilot** public beta
-* Reach **1000+ GitHub stars** across projects
+* Launch **AI‑Copilot** public beta.
+* Reach **1000+ GitHub stars** across projects.
 * Contribute to **5+ open‑source projects**
 * Mentor aspiring developers
 
