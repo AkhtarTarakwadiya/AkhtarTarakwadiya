@@ -85,7 +85,7 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=akhtartarakwadiya&theme=radical" />
+  <img src="https://streak-stats.vercel.app?user=AkhtarTarakwadiya&theme=radical" />
 </p>
 
 ## 📊 GitHub Activity Graph
