@@ -91,7 +91,7 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhtartarakwadiya&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhtarTarakwadiya&theme=react-dark" />
 </p>
 
 ---
