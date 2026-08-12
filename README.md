@@ -176,7 +176,7 @@ A simple yet efficient CRUD‑based system for managing book collections.
 
 ## 🚀 Let’s Collaborate!
 
-Whether you’re launching a product, need help with a project, or just want to geek out about tech — I’m always open to meaningful conversations and collaborations.
+Whether you’re launching a product, need help with a project, or just want to geek out about tech — I’m always open to meaningful conversations and collaborations...
 
 ### I’m particularly interested in:
 
@@ -199,8 +199,8 @@ Whether you’re launching a product, need help with a project, or just want to 
 
 ### 🎯 2026 Goals
 
-* Launch **AI‑Copilot** public beta.
-* Reach **1000+ GitHub stars** across projects.
+* Launch **AI‑Copilot** public beta...
+* Reach **1000+ GitHub stars** across projects...
 * Contribute to **5+ open‑source projects**
 * Mentor aspiring developers
 
