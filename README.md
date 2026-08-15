@@ -1,20 +1,20 @@
-# 🌟 Hey there, I'm **Akhtar Tarakwadiya**..! 👋
+# 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋
 
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
-Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
+Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications... 🚀
+Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems...
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
-* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices.
-* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**.
+* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices...
+* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**...
 - 🤖 **Fun Fact**  
   → I enjoy exploring new technologies, brainstorming side projects & tracking web trends 🎉  
   → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights.”* ☕💻😄  
   → *“Powered by chai, deadlines, and questionable sleep schedules...”* ☕😴💻
-* 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems.
+* 🌱 **Recently Added**: Actively exploring **AI‑powered applications** and smart document‑processing systems...
 
 ---
 
