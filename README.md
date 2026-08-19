@@ -1,7 +1,7 @@
-# 🌟 Hey there, I'm **Akhtar Tarakwadiya**! 👋
+# 🌟 Hey there, I'm **Akhtar Tarakwadiya**..! 👋
 
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications... 🚀
-Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems...
+Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications. 🚀
+Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
 
 ---
 
@@ -122,7 +122,7 @@ An intelligent document‑processing platform with AI‑powered categorization, 
 
 ### 🎮 Game Download Platform
 
-A sleek Laravel‑based platform to explore, manage, and download popular games...
+A sleek Laravel‑based platform to explore, manage, and download popular games.
 
 * 🛠️ **Tech Stack**: Laravel, MySQL, Bootstrap
 * 🚧 **Status**: In Development
@@ -131,7 +131,7 @@ A sleek Laravel‑based platform to explore, manage, and download popular games.
 
 ### 🛒 Online Shopping Store
 
-A responsive e‑commerce web application featuring smooth UX, cart management, and secure checkout...
+A responsive e‑commerce web application featuring smooth UX, cart management, and secure checkout.
 
 * 🛠️ **Tech Stack**: PHP, MySQL, Bootstrap
 * 🌐 **Live Demo**: Coming Soon
