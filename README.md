@@ -174,7 +174,7 @@ A simple yet efficient CRUD‑based system for managing book collections.
 
 ---
 
-## 🚀 Let’s Collaborate!
+## 🚀 Let’s Collaborate..!
 
 Whether you’re launching a product, need help with a project, or just want to geek out about tech — I’m always open to meaningful conversations and collaborations...
 
