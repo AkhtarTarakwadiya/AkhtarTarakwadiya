@@ -181,9 +181,9 @@ Whether you’re launching a product, need help with a project, or just want to 
 ### I’m particularly interested in:
 
 * 🤖 AI / ML integration projects
-* 📊 Scalable web applications
-* 🔧 Open‑source contributions
-* 🎯 Innovative tech solutions
+* 📊 Scalable web applications...
+* 🔧 Open‑source contributions...
+* 🎯 Innovative tech solutions...
 
 💬 **Drop a message — let’s build something amazing together!**
 
@@ -202,7 +202,7 @@ Whether you’re launching a product, need help with a project, or just want to 
 * Launch **AI‑Copilot** public beta...
 * Reach **1000+ GitHub stars** across projects...
 * Contribute to **5+ open‑source projects**
-* Mentor aspiring developers
+* Mentor aspiring developers...
 
 *Last Updated: January 2026 | 🚀 Always Building, Always Learning*
 
