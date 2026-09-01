@@ -193,8 +193,8 @@ Whether you’re launching a product, need help with a project, or just want to 
 
 ### 📈 Currently Working On
 
-* 🔧 Enhancing **AI‑Copilot** intelligent features.
-* 📚 Expanding **HDoc** document‑processing capabilities.
+* 🔧 Enhancing **AI‑Copilot** intelligent features...
+* 📚 Expanding **HDoc** document‑processing capabilities...
 * 🎮 Finalizing **Game Download Platform**
 
 ### 🎯 2026 Goals
