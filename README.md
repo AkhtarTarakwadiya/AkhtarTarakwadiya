@@ -181,9 +181,9 @@ Whether you’re launching a product, need help with a project, or just want to 
 ### I’m particularly interested in:
 
 * 🤖 AI / ML integration projects
-* 📊 Scalable web applications...
-* 🔧 Open‑source contributions...
-* 🎯 Innovative tech solutions...
+* 📊 Scalable web applications.
+* 🔧 Open‑source contributions.
+* 🎯 Innovative tech solutions.
 
 💬 **Drop a message — let’s build something amazing together!**
 
