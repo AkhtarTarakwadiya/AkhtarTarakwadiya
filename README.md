@@ -1,7 +1,7 @@
 # 🌟 Hey there, I'm **Akhtar Tarakwadiya**..! 👋
 
-Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications... 🚀
-Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems...
+Welcome to my GitHub! I’m a **Full-Stack Web Developer** who loves building modern, user‑centric, and scalable web applications.🚀
+Here you’ll find a mix of clean code, practical projects, and experiments with new technologies — all aimed at solving real‑world problems.
 
 ---
 
