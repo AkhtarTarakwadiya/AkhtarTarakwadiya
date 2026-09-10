@@ -7,9 +7,9 @@ Here you’ll find a mix of clean code, practical projects, and experiments with
 
 ## 👨‍💻 About Me
 
-* 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
-* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices.
-* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**.
+* 🚀 **Currently Exploring**: Advanced concepts in **Laravel** and diving deep into the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*...
+* 💼 **Focused On**: Crafting high‑performance, secure, and responsive web applications using modern frameworks and best practices...
+* 🎯 **Goal**: To contribute to innovative digital solutions and grow into a highly versatile **Full‑Stack Engineer**...
 - 🤖 **Fun Fact**  
   → I enjoy exploring new technologies, brainstorming side projects & tracking web trends 🎉  
   → *“I don’t need coffee — I can survive **24 hours** with **3 hours of sleep** and **chai** during coding nights.”* ☕💻😄  
